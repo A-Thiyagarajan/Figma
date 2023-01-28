@@ -32,7 +32,9 @@ Publish the website in the given URL.
 Figma
 
 ## OUTPUT:
-
+![output](./homepagesec.png)
+![output](./login.png)
+![output](./deprtpage.png)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
