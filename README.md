@@ -33,7 +33,7 @@ Figma
 
 ## OUTPUT:
 ![output](./homepagesec.png)
-![output](./login.png)
+![output](./loginpage.png)
 ![output](./deprtpage.png)
 
 ## RESULT:
